@@ -1,2 +1,0 @@
-# articles
-host articles
